@@ -1,0 +1,8 @@
+This is a placeholder file to remind you that you need to add two images for the web interface:
+
+1. image1.jpeg - The image of a child with a key by a tree (first image you uploaded)
+2. image2.jpeg - The image of a child opening a door (second image you uploaded)
+
+Place these images in the same directory as the HTML, CSS, and JavaScript files.
+
+If you want to use different filenames or formats, you'll need to update the <img> src attributes in the index.html file. 
